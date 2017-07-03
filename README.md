@@ -1,0 +1,2 @@
+# MNIST_MLP
+sklearnなどを使わないでMNISTをどこまでやれるか
